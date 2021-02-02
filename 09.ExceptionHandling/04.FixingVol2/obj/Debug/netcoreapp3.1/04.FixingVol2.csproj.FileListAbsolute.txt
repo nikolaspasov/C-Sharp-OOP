@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.exe
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.deps.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.dll
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\bin\Debug\netcoreapp3.1\04.FixingVol2.pdb
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.dll
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.pdb
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\04.FixingVol2\obj\Debug\netcoreapp3.1\04.FixingVol2.genruntimeconfig.cache

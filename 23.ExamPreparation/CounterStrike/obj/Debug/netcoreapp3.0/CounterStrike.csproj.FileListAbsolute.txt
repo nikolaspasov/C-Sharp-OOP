@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache

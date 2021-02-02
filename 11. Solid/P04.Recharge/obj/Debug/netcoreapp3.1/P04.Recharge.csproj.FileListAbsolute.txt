@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.exe
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.deps.json
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.dll
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.dll
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# OOP\11. Solid\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csprojAssemblyReference.cache

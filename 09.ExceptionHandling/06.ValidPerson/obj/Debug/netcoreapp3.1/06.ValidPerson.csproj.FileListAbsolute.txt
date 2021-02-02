@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\bin\Debug\netcoreapp3.1\06.ValidPerson.exe
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\bin\Debug\netcoreapp3.1\06.ValidPerson.deps.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\bin\Debug\netcoreapp3.1\06.ValidPerson.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\bin\Debug\netcoreapp3.1\06.ValidPerson.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\bin\Debug\netcoreapp3.1\06.ValidPerson.dll
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\bin\Debug\netcoreapp3.1\06.ValidPerson.pdb
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\obj\Debug\netcoreapp3.1\06.ValidPerson.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\obj\Debug\netcoreapp3.1\06.ValidPerson.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\obj\Debug\netcoreapp3.1\06.ValidPerson.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\obj\Debug\netcoreapp3.1\06.ValidPerson.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\obj\Debug\netcoreapp3.1\06.ValidPerson.dll
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\obj\Debug\netcoreapp3.1\06.ValidPerson.pdb
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\06.ValidPerson\obj\Debug\netcoreapp3.1\06.ValidPerson.genruntimeconfig.cache

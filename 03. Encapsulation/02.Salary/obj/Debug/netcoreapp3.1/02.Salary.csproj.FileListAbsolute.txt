@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.exe
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.deps.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.dll
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.pdb
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.dll
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.pdb
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.genruntimeconfig.cache

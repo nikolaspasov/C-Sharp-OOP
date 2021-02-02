@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\belin\Desktop\C# OOP\23.ExamPreparation\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

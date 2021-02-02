@@ -1,0 +1,9 @@
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache

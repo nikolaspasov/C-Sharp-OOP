@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.exe
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.deps.json
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.dll
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.pdb
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.dll
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.pdb
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.genruntimeconfig.cache

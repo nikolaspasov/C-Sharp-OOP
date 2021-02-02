@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.exe
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.deps.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.dll
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.pdb
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.dll
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.pdb
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.genruntimeconfig.cache

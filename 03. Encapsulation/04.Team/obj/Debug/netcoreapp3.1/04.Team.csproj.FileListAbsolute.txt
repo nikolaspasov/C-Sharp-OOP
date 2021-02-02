@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.exe
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.deps.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.dll
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\bin\Debug\netcoreapp3.1\04.Team.pdb
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.dll
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.pdb
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\04.Team\obj\Debug\netcoreapp3.1\04.Team.genruntimeconfig.cache

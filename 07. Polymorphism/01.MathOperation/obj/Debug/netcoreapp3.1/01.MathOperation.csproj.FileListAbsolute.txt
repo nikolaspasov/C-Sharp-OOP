@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.exe
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.deps.json
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.dll
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.pdb
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.dll
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.pdb
+C:\Users\belin\Desktop\C# OOP\07. Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.genruntimeconfig.cache

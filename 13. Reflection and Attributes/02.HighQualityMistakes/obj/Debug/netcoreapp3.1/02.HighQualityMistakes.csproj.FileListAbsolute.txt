@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.exe
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.deps.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.dll
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.pdb
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.dll
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.pdb
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.genruntimeconfig.cache

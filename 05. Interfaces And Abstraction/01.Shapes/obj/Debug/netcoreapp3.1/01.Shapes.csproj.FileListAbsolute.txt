@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.exe
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.deps.json
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.dll
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.pdb
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.dll
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.pdb
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.genruntimeconfig.cache

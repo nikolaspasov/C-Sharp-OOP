@@ -1,0 +1,9 @@
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\obj\Debug\netcoreapp3.1\Database.pdb
+C:\Users\belin\Desktop\C# OOP\16. Unit Testing Exercise\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache

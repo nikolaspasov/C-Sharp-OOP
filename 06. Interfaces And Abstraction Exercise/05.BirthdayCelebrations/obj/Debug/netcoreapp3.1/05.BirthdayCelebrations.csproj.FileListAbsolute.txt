@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.exe
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.deps.json
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+C:\Users\belin\Desktop\C# OOP\06. Interfaces And Abstraction Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.genruntimeconfig.cache

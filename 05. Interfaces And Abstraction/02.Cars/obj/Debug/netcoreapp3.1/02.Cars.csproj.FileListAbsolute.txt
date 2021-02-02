@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.exe
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.deps.json
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.dll
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.pdb
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.dll
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.pdb
+C:\Users\belin\Desktop\C# OOP\05. Interfaces And Abstraction\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.genruntimeconfig.cache

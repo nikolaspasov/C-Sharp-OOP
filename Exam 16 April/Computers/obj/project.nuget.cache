@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hw1DMRF0DyrM9DPhDQ9vySmBh363doomDTW4fNUJbEhJz3AcSHXLZebyMyJ9B3kVRcAFGIRQbxV7+NLaG8NYIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\belin\\Desktop\\C# OOP\\Exam 16 April\\Computers\\Computers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\belin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

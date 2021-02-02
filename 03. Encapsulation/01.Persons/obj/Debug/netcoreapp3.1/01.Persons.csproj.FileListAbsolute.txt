@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.exe
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.deps.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.dll
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.pdb
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.dll
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.pdb
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.genruntimeconfig.cache

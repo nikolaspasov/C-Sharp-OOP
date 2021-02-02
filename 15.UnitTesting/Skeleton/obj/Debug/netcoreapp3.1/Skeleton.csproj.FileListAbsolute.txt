@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\belin\Desktop\C# OOP\15.UnitTesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

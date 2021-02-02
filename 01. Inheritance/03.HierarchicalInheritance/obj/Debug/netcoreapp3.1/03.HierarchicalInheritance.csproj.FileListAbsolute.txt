@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.exe
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.deps.json
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+C:\Users\belin\Desktop\C# OOP\01. Inheritance\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.genruntimeconfig.cache

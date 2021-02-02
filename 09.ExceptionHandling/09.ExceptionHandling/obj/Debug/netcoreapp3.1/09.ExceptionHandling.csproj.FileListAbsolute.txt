@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\bin\Debug\netcoreapp3.1\09.ExceptionHandling.exe
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\bin\Debug\netcoreapp3.1\09.ExceptionHandling.deps.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\bin\Debug\netcoreapp3.1\09.ExceptionHandling.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\bin\Debug\netcoreapp3.1\09.ExceptionHandling.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\bin\Debug\netcoreapp3.1\09.ExceptionHandling.dll
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\bin\Debug\netcoreapp3.1\09.ExceptionHandling.pdb
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\obj\Debug\netcoreapp3.1\09.ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\obj\Debug\netcoreapp3.1\09.ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\obj\Debug\netcoreapp3.1\09.ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\obj\Debug\netcoreapp3.1\09.ExceptionHandling.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\obj\Debug\netcoreapp3.1\09.ExceptionHandling.dll
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\obj\Debug\netcoreapp3.1\09.ExceptionHandling.pdb
+C:\Users\belin\Desktop\C# OOP\09.ExceptionHandling\09.ExceptionHandling\obj\Debug\netcoreapp3.1\09.ExceptionHandling.genruntimeconfig.cache

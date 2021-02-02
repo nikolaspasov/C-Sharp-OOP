@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.exe
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.deps.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.dll
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.pdb
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.dll
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.pdb
+C:\Users\belin\Desktop\C# OOP\13. Reflection and Attributes\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.genruntimeconfig.cache

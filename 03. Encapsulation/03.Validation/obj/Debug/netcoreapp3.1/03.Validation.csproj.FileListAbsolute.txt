@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.exe
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.deps.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.dll
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.pdb
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.dll
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.pdb
+C:\Users\belin\Desktop\C# OOP\03. Encapsulation\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.genruntimeconfig.cache

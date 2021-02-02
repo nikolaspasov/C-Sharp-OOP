@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.exe
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.deps.json
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.json
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+C:\Users\belin\Desktop\C# OOP\11. Solid\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.genruntimeconfig.cache
